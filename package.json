@@ -1,0 +1,23 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "FLX-Genie is a multimodal enterprise AI assistant that understands and generates technical documents, diagrams, code, and workflows using internal data sources.\r It combines natural language processing, vision understanding, and autonomous computer-use capabilities to provide a unified environment for solution architects, developers, QA and product teams.",
+  "homepage": "https://github.com/gauravdave083/FLX_Genie#readme",
+  "bugs": {
+    "url": "https://github.com/gauravdave083/FLX_Genie/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauravdave083/FLX_Genie.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "openai": "^6.9.1"
+  }
+}
