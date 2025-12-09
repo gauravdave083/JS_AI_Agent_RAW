@@ -133,4 +133,4 @@ async function autoPrompting(userMessage) {
 // Uncomment to test autoPrompting
 // autoPrompting('What is the sum of weather of Patiala and Mohali?');
 
-// End of this code file
+// End of this code file 
